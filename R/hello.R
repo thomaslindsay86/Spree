@@ -16,3 +16,6 @@
 howGoodIsSpree <- function() {
   print("Very Good")
 }
+howGoodIsTom <- function(){
+  print("Fei Chang Hao")
+}
